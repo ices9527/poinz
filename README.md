@@ -18,7 +18,7 @@ Similar tools are : https://www.pointingpoker.com/ or https://www.planningpoker.
 ## User Manual
 
 Confused? Or you want to learn about hidden features? Read the [User Manual](docu/manual.md).
-
+docker run -d --rm -p 3000:3000 de4e
 ## Contribute
 
 You can contribute in multiple ways...
